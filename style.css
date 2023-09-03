@@ -67,11 +67,22 @@ font-family: 'Urbanist', sans-serif; */
     bottom: 420px;
     z-index: -1;
     left: 900px;
+    transform: rotate(45deg);
+    padding-top: 150px;
 }
-
+.b22
+{
+    position: relative;
+    bottom: 420px;
+    z-index: -1;
+    left: 900px;
+    transform: rotate(310deg);
+    padding-top: 50px;
+}
 .b3 {
     position: relative;
     left: 15%;
+    padding-top: 10px;
 }
 
 .b4 {
@@ -443,8 +454,8 @@ footer small {
         position: absolute;
         width: 50px;
         height: 60px;
-        left: 173px;
-        top: 67px;
+        left: 140px;
+        top: 57px;
         z-index: -55;
     }
 
@@ -526,7 +537,7 @@ footer small {
     }
 
     .mobile-only .card-text {
-        font-size: 16px;
+        font-size: 12px;
         margin-bottom: 0;
     }
 
